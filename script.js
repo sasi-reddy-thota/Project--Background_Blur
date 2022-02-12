@@ -3,7 +3,7 @@ let loadName=document.querySelector('.load-name');
 let bg=document.querySelector('.bg');
 
 let load=0;
-let stop=setInterval(blurring,30);
+let stop=setInterval(blurring,50);
 
 function blurring(){
     load++;

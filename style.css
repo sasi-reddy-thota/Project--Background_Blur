@@ -14,7 +14,7 @@ body{
     /* background-image: url(pexels-pixabay-268533.jpg); */
 }
 .bg{
-    background: url(pexels-pixabay-268533.jpg) no-repeat center center/cover;
+    background: url(pexels-pixabay-247676.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0%;
     left: 0%;
@@ -26,10 +26,10 @@ body{
 }
 .load-text{
     font-size: 50px;
-    color: rgb(212, 162, 26);
+    color: rgb(14, 27, 207);
 }
 .load-name{
     font-size: 100px;
     font-family: monospace;
-    color: rgb(212, 125, 26);
+    color: rgb(27, 37, 173);
 }
